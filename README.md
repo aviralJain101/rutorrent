@@ -1,5 +1,5 @@
 # rutorrent
-
+An expample ui for Rutoerrent GSOC Application.
 A new Flutter application.
 
 ## Getting Started
